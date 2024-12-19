@@ -28,3 +28,8 @@ The current implementation is simplified but can be improved in the following ar
 4. **Database Improvements**  
    - Add the TimescaleDB extension to PostgreSQL for better handling of time-series data.  
    - Alternatively, consider using another database specifically suited for time-series data.  
+
+
+# Assignment 2 - Design a system
+
+## Added an Image which explains the workflow and tools
