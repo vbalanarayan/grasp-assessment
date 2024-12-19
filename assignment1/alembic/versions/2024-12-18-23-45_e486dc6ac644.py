@@ -1,7 +1,7 @@
 """Create Sensor data table
 
 Revision ID: e486dc6ac644
-Revises: None
+Revises: 
 Create Date: 2024-12-18 23:45:05.385837
 
 """

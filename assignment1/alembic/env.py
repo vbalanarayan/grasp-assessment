@@ -4,7 +4,7 @@ import pathlib
 from alembic import context
 from sqlalchemy.ext.asyncio import create_async_engine
 # 
-from app.models.product import Product
+from app.models.sensor_data import SensorData
 from app.core.settings import settings
 from app.models.base import Base_
 from sqlalchemy.orm import declarative_base

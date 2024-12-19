@@ -25,7 +25,7 @@ class CRUDBase(Generic[ModelType, CreateSchemaType]):
         To create a CRUD instance for a specific model (e.g., User model):
 
         ```python
-        crud_user = CRUDBase[Prodcut, ProductCreateSchema, ProductUpdateSchema]
+        crud_user = CRUDBase[User, UserCreateSchema, UserUpdateSchema]
         ```
     """
     def __init__(self, model: Type[ModelType]):
